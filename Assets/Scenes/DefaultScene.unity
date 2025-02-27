@@ -390,6 +390,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: PortalVFX
       objectReference: {fileID: 0}
+    - target: {fileID: 525500132286253272, guid: 80b06d9237959bc43bed346460f3d45a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2858889607732892665, guid: 80b06d9237959bc43bed346460f3d45a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3285595132998542177, guid: 80b06d9237959bc43bed346460f3d45a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.055
+      objectReference: {fileID: 0}
     - target: {fileID: 5860671564631338094, guid: 80b06d9237959bc43bed346460f3d45a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -439,6 +454,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8946588452611421252, guid: 80b06d9237959bc43bed346460f3d45a,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
